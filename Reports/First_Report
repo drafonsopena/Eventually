@@ -1,0 +1,49 @@
+PROMEIRO REPORT
+Este projeto começou no dia (03.09.25 às 20:22) com a previsão de terminar antes do dia (26.11.25).
+"Tarefas de cada membro"
+Eddd mais Gera: responsável pela frontend e documentação, registro de brug, mudança, agendas, backend, drap.
+Reporte de 03 até 10 de Setembro: Ganhos e Lições.
+Primeiro projeto será a criação de uma MOBILE APP ( Android ) que ajuda a criar lembretes. Utilizamos Java, uma base de dados MySQL, com o tempo previsto de desenvolvimento de 3 meses ( 03.09.25 até 03.11.25 ).
+  As principais funções da APP são:
+  *Criar alarme
+  *Notas e lembretes
+  *Partilhar Calendário
+  *Fazer longin usando o Google/ Microsoft/ E-mail
+  *Gravar o histórico.
+**Dia 04.09.25--> No nosso primeiro dia tinhamos como metas...
+- Eddd responsável pela instalação do Linux Mint, nasua maquina HP;
+- Gera e drap responsável pela criação de repositório no GitHub, partilhar o material de estudo, e criar um  mapa de ação/tarefas;
+- CasBi responsável por criar pressão, lembrete e monitorização contínua.
+Ganhos:
+- O repositorio foi criado, as metas e o materia de estudo foram partilhados;
+- O Eddd usou duas pendrives para fazer o backup;
+- Trabalhamos bem melhor sob-pressão.
+--
+Dificuldades:
+- O Eddd tinha de fazer o backup do seu sistema Windows, não tinha pendrives/HDD Externa para faze-lô(a que tinhamos estava formatada em exFAT e não foi reconhecida no sistema Windows);
+- Nem todos tinham uma conta no GitHub;
+- Falha de comunicação e a Procrastinação;
+- Definir o escopo do projeto.
+**Dia 05.09.25--> Vai dar errado antes de dar certo.
+- Gera tinha de partilhar a lista de Apps que cada membro tinha de instalar, incluindo a lingua de progamação e lista de APIs que temos de estudar.
+Ganhos:
+- Concordamos em usar Java para a linguagem de programação;
+- Como IDE Android Studio para desenvolver
+- Partilhamos a lista de APIs usados no Android Studio.
+--
+Desafios:
+- Nem todos os membros têm know-how dessas ferramentas;
+- Nem todos os membros têm uma maquina capaz de correr Android Studio (local nem na nuvem)
+- Falha de comunicação e a Procrastinação.
+**Dia 07.09.25 até Dia 09.09.25--> Imprevistos e Atrasos.
+Ganhos:
+-Nesta primeira semana, comecei a trabalhar no projeto Eventually, definindo as bases para o desenvolvimento da aplicação. Ainda não comecei a codificar, mas fiz um bom progresso no planejamento e na definição das funcionalidades.
+--
+Desafios:
+- Nesses dias o Eddd conseguiu terminar o backup do PC e instalou o Linux Mint, mas a instalação foi mal feita, a pendrive estava corrompida e voltou no sistema Windows;
+- Tentamos comprar uma nova maquina mas quase que fomos burlados, a maquina era de 2015 (e já foi descontinuado), com problemas de bateria cronicos, não tinha nenhum tipo de SSD/HDD para fazer a instalação de um OS (UBUNTU).
+**Dia 10.09.25 até 12.09.25--> Nosso primeiro Reporte.
+Receber reporte de cada membro do T.E.A.M sobre ganhos e desafios individuais para elaborar o reporte da primeira semana.
+
+*Conclusão:*
+A primeira semana do projeto Eventually foi dificil e cheia de imprevistos, fizemos um ligeiro progresso no planejamento e na definição das funcionalidades. Agora estamos a nos preparar para a desenvolver a aplicação e adicionar as funcionalidades esperadas.
